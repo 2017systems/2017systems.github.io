@@ -8,46 +8,45 @@ Author: Samuel Dalusung
 --------------------------------------------------------*/
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500,700);
 
-
 body{
-	margin: 0;
-	padding: 0;
-	width: 100%;
-	font-family: 'Open Sans';
-	font-weight:normal;
-	background-color: #47a3da;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    font-family: 'Open Sans';
+    font-weight:normal;
+    background-color: #47a3da;
 
 }
 
 h1 { 
     font-family: 'Raleway';
-	font-weight:normal;
-	font-size: 80pt;
-	text-align: center;
-	color: #fff;
-	margin: 0;
-	padding: 0;
+    font-weight:normal;
+    font-size: 80pt;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
 h2 {
-   font-family:'Open Sans';
-   font-weight: 200;
-   font-size: 40px;
-   text-align: center;
-   color: #fff;
-   margin: 0;
-	padding: 0;
+    font-family:'Open Sans';
+    font-weight: 200;
+    font-size: 40px;
+    text-align: center;
+    color: #fff;
+    margin: 0;
+    padding: 0;
 }
 
 h3 {
-   font-family: 'Open Sans';
-   font-weight: normal;
-   font-size: 16px;
-   text-align: center;
-   margin: 5px 0;
-	padding: 0;
-	z-index: 1;
-	position: relative;
+    font-family: 'Open Sans';
+    font-weight: normal;
+    font-size: 16px;
+    text-align: center;
+    margin: 5px 0;
+    padding: 0;
+    z-index: 1;
+    position: relative;
 }
 
 .bold { font-weight: 500; }
@@ -77,15 +76,10 @@ a:active {
 
 #slide1, #slide2{ width: 100%;}
 #slide1{
-	
-	background-color: #47a3da;
-	color: #333333;
-	height: 100%;
-	margin: 0 auto;
-	overflow: hidden;
-	padding: 200px 0;	
-	
-	
+    background-color: #47a3da;
+    color: #333333;
+    height: 100%;
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 200px 0;    
 }
-
-
